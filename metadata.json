@@ -1,0 +1,6 @@
+{
+  "name": "The Orbital Pact",
+  "description": "A third-person 3D sci-fi survival-action and coalition diplomacy game set during a war between star kingdoms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
